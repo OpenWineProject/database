@@ -1,0 +1,23 @@
+{
+  "name": "wine-varietals",
+  "version": "0.0.1-alpha",
+  "description": "Assorted collections of wine varietals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/OpenWineProject/database.git"
+  },
+  "keywords": [
+    "wine",
+    "varietals"
+  ],
+  "author": "Open Wine Project",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenWineProject/database/issues"
+  },
+  "homepage": "https://github.com/OpenWineProject/database#readme"
+}

@@ -1,0 +1,72 @@
+{
+  "red_wines": [
+    {
+      "name": "Cabernet Sauvignon",
+      "description": "Bold, full-bodied, with dark fruit flavors and firm tannins."
+    },
+    {
+      "name": "Merlot",
+      "description": "Smooth and medium-bodied with plum, black cherry, and herbal notes."
+    },
+    {
+      "name": "Pinot Noir",
+      "description": "Light-bodied with red berry flavors and earthy undertones."
+    },
+    {
+      "name": "Zinfandel",
+      "description": "Jammy and fruit-forward with spicy and peppery notes."
+    },
+    {
+      "name": "Syrah/Shiraz",
+      "description": "Rich and full-bodied with dark fruit flavors, pepper, and smoky notes."
+    },
+    {
+      "name": "Malbec",
+      "description": "Deep-colored with blackberry, plum, and chocolate flavors."
+    },
+    {
+      "name": "Sangiovese",
+      "description": "The backbone of Chianti, featuring cherry, tomato, and herbal flavors."
+    },
+    {
+      "name": "Tempranillo",
+      "description": "Spain’s signature grape, offering red fruit, tobacco, and leather notes."
+    }
+  ],
+  "white_wines": [
+    {
+      "name": "Chardonnay",
+      "description": "Buttery and oaky or crisp and citrusy, depending on the style."
+    },
+    {
+      "name": "Sauvignon Blanc",
+      "description": "Crisp and refreshing with grassy, citrus, and tropical notes."
+    },
+    {
+      "name": "Riesling",
+      "description": "Aromatic and high-acid, ranging from dry to sweet."
+    },
+    {
+      "name": "Pinot Grigio/Pinot Gris",
+      "description": "Light and zesty with green apple and pear flavors."
+    },
+    {
+      "name": "Gewürztraminer",
+      "description": "Floral and spicy, often off-dry, with lychee and honeysuckle notes."
+    },
+    {
+      "name": "Viognier",
+      "description": "Rich and aromatic with peach, apricot, and floral notes."
+    }
+  ],
+  "rose_wines": [
+    {
+      "name": "Provence Rosé",
+      "description": "Light, dry, and crisp with red berry and citrus flavors."
+    },
+    {
+      "name": "White Zinfandel",
+      "description": "Sweet and fruity with strawberry and melon notes."
+    }
+  ]
+}
