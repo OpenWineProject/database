@@ -1,0 +1,23 @@
+{
+  "name": "open-wine-database",
+  "version": "0.0.1-alpha",
+  "description": "A database of wine related ontology, geography, language and other charateristics. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/OpenWineProject/database.git"
+  },
+  "keywords": [
+    "wine",
+    "database"
+  ],
+  "author": "Open Wine Project",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenWineProject/database/issues"
+  },
+  "homepage": "https://github.com/OpenWineProject/database#readme"
+}
